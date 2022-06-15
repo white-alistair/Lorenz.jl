@@ -1,5 +1,7 @@
 module Lorenz
 
-# Write your package code here.
+export lorenz63
+
+include("lorenz63.jl")
 
 end
