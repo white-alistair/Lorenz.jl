@@ -1,3 +1,8 @@
+"""
+    lorenz63(u, p, t)
+
+Right-hand side for the Lorenz system.
+"""
 function lorenz63(u, p, t)
     x, y, z = u
     σ, ρ, β = p
