@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"functions/","page":"Functions","title":"Functions","text":"lorenz63(u, p, t)","category":"page"},{"location":"functions/#Lorenz.lorenz63-Tuple{Any, Any, Any}","page":"Functions","title":"Lorenz.lorenz63","text":"lorenz63(u, p, t)\n\nRight-hand side for the Lorenz system.\n\n\n\n\n\n","category":"method"},{"location":"#Lorenz.jl","page":"Home","title":"Lorenz.jl","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Hello, World","category":"page"},{"location":"","page":"Home","title":"Home","text":"(Image: localhost)","category":"page"}]
+}
